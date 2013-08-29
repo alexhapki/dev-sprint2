@@ -1,2 +1,14 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Alex Choi
+
+-	What is the difference between the “if” and “while” python commands when using recursion?
+-	In 7.5, why does the solution have the “total” lines (http://www.greenteapress.com/thinkpython/code/pi.py)
+-	The way I checked to see how many steps it would take to converge was by adding k to the return statement in line 24. Is this the correct method?
+-	At 11:06 in the music tutorial (http://www.youtube.com/watch?v=Qe7JrEDUBlA&feature=youtu.be), it shows that he misspelled “javascript” in line 7 (he 	 wrote "javacript"), yet his code still works. Why is that?
+
+Web App ideas
+1. An image gallery page. It will vertically display images I have in a directory.
+2. A page that will prompt the user to fill out a form, then once submitted, it will display the information in a static page.
+3. A payment page using Stripe's interface.
+
+All of these web app ideas are to help me with a site I'm starting called Bountourage. (www.bountourage.com). I'm initially building it on WordPress, but would like the ability to add the above three web app capabilities.
